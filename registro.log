@@ -1,0 +1,20 @@
+2024-11-21 21:53:16 - Entrada en campo Usuario
+2024-11-21 21:53:17 - Mouse entra en el botón Login
+2024-11-21 21:53:17 - Mouse sale del botón Login
+2024-11-21 21:53:24 - Salida del campo Usuario
+2024-11-21 21:53:28 - Entrada en campo Usuario
+2024-11-21 21:53:28 - Mouse entra en el botón Login
+2024-11-21 21:53:28 - Mouse sale del botón Login
+2024-11-21 21:53:33 - Salida del campo Usuario
+2024-11-21 21:53:33 - Entrada en campo Contraseña
+2024-11-21 21:53:36 - Mouse entra en el botón Login
+2024-11-21 21:53:37 - Salida del campo Contraseña
+2024-11-21 21:53:37 - Login exitoso con usuario: admin
+2024-11-21 21:53:39 - Mouse sale del botón Login
+2024-11-21 21:53:43 - Entrada en campo Usuario
+2024-11-21 21:53:51 - Salida del campo Usuario
+2024-11-21 21:53:51 - Entrada en campo Contraseña
+2024-11-21 21:53:56 - Mouse entra en el botón Login
+2024-11-21 21:53:57 - Salida del campo Contraseña
+2024-11-21 21:53:57 - Login fallido con usuario: admin
+2024-11-21 21:53:59 - Mouse sale del botón Login
